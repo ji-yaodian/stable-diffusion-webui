@@ -1,6 +1,6 @@
 @echo off
 
-set PYTHON=
+set PYTHON="C:\Users\jiyao\.conda\envs\diff\python.exe"
 set GIT=
 set VENV_DIR=
 set COMMANDLINE_ARGS=
